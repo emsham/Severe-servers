@@ -28,3 +28,5 @@ Everything else doesn't matter post-beta honestly. If we get that far it's an ac
 Digital solutions for polymers: material discovery, property prediction, process optimization, sustainability assessment, custom material design.
 
 Digital solutions for the aviation industry: scheduling, maintenance, and flight operations
+
+Tech transfer web portal that tracks IP and financial transactions.
