@@ -1,0 +1,17 @@
+crypto backtesting webapp aka Project SUMI
+
+- Guideline:
+
+    Requirement Analysis:
+    - Features: user log-in, adding/deleting cryptocurrencies to the portfolio, tracking historical performances, tracking live performances.
+    Python for backend, whatever works with Majd for front-end. Focus first on building the portfolio tracker, user log-in comes next.
+
+    UI:
+    - Discuss the number of different types of pages (use Figma/Sketch). Minimalist and easy to use.
+
+
+    Next steps: 1) setup backend 2) database design 3) find cryptocurrency API 4) develop frontend 5) connect frontend to backend 6) dig deeper in the portfolio stuff 7) test 8) deploy.
+
+
+
+This seems a bit extensive? Maybe put this on hold for now.
