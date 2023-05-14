@@ -1,0 +1,10 @@
+digital solutions for aviation:
+
+
+this is one of the big ideas and I genuinely think the scheduling one is just the easiest to do. other two ideas require aviation experience (technical and otherwise) so forget it.
+
+Gonna quickly gather all aerospace and air transportation companies built in United States history.
+
+Okay I compiled all companies from Crunchbase into one csv file. Honestly a lot of data but good to have. Didn't take a deep dive but I was checking out aviation software n google essentially related to scheduling. All scheduling has to do with maintence and stuff. Like work orders and what not. Operational efficiency is the key here.
+
+Honestly with this, it would be best to do some cold calls and find out pain points that way.
