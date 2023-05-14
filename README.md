@@ -12,6 +12,8 @@ Not quite sure on the third thing. Maybe something that can speed up due dilegen
 3) everyday - does apple maps have a plugin? would be cool to plugin LIVE nyc public transport animations. like you open your maps and you see the L train at the station before you even click into the station. Or a bus coming or something IDK LOL
 4) Math/Finance side - crypto investment simulator. this webapp would allow users to construct their own crypto portfolio with fake money and track their performance. Could be a learning tool.
 5) alternative data insights for crypto / VCs? this one is a bit tricky. but basically how could you use alternative data like foot traffick to determine upcoming sales trends for your portfolio company (if you are a VC). another use case on the VC side, utilizing foot traffic to beaches during the summer to determine how many people would potentially buy sunscreen product sold by your portfolio company. I am not sure what this would look like on the cryptoside......but just anything other than standard financial news. for example - maybe for crypto it could be analyzing regulatory sentiment. So like this essentiallly - https://www.bcmstrategy2.com/. Now that I think about it idk if this should be in the small ideas section...
+6) Shit and learn: a simple webpage that asks what news sites you have subscribed to and that automatically generates a summary of a list of recent news articles that can be consumed in 10 minutes--aka time while one is relieving oneself. Uses chatgpt.
+7) A web app that asks the user for five songs and that generates a playlist of 100 songs similar to those songs. The generated playlist could be downloaded with Spotify and Apple Music. Requires using the API of those two as well as chatgpt.
 
 - Big ideas: 
 
