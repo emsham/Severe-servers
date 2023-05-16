@@ -50,3 +50,5 @@ Real revenue formula is P = ($700*Q)+(140 x N) - C
 With Q being AR filter/effect reaching 500,000 unique posts witihin 90 days.
 With N being each 100,000 additional posts achieved within 90 days.
 With C being cost. Cost could be paying creators to post to gain more traction. Maybe we could outsource. Otherwise the only other cost to consider is time.
+
+On the oursourcing we would have to pay by the hour. Let's say we give someone 1000$. That's 100 hours to develop some great effects if they get paid $10 hour. 
