@@ -34,3 +34,19 @@ Digital solutions for the aviation industry: scheduling, maintenance, and flight
 Tech transfer web portal that tracks IP and transactions.
 
 Email portal that looks exactly like iMessage lol.
+
+This is worth taking a look at. AR filter development at tiktok pays out $700/500000 unique video. https://effecthouse.tiktok.com/
+- Let's say our goal is 7K profit from AR filters we built.
+- Aim is 4Million unique videos using the filter PER filter (not aggregated by all filters created).
+- Effectively the costs are 0 for building these, but additionally its requiried to garner the views @ 90 days.
+- If we pay creators with DOUBLE the required unique view count, so 10M+ followers (I was on tiktok in 2020 and that didn't seem that crazy back then so Im sure there are a lot of people like that). Let's we create 5 AR filters every 90 days. we pay creators $200 total to make videos with our filter.
+Assuming each AR vid generates .5M unique videos (which is bold).
+$700*5 = 3500 Revenue.
+$200*5 = 1000$ COST
+2500 profit every 90 days?
+
+Real revenue formula is P = ($700*Q)+(140 x N) - C
+
+With Q being AR filter/effect reaching 500,000 unique posts witihin 90 days.
+With N being each 100,000 additional posts achieved within 90 days.
+With C being cost. Cost could be paying creators to post to gain more traction. Maybe we could outsource. Otherwise the only other cost to consider is time.
