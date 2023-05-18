@@ -52,3 +52,18 @@ With N being each 100,000 additional posts achieved within 90 days.
 With C being cost. Cost could be paying creators to post to gain more traction. Maybe we could outsource. Otherwise the only other cost to consider is time.
 
 On the oursourcing we would have to pay by the hour. Let's say we give someone 1000$. That's 100 hours to develop some great effects if they get paid $10 hour. 
+
+
+05/18/2023:
+
+- a webapp that allows users to write thesis/opinions/guesses/theorize on quantifiable outcomes - a bet essentially - but instead of providing money, the platform would award the user with some sort of point system. So betting for clout essentially. And then have the user ranked.
+
+
+For example: people love to make theories on entertainment. movies, tv shows, sports (i.e. the Golden State Warriors will win by X amount in the 3 leg of their playoffs, I predict the One Piece will be X). Some people will even wait for an outcome to be decided, and then tell their friends they knew X was going to happen all along. **What this platform does is simply hold individuals accountable for their convictions - rewards them with social recognition for being write and punishes them for being wrong**
+
+So how would this platform work functionally. I guess users could come in, and we would have to create some sort of form for them to place their predictions on. Then we have to have this form digest the information and place it into categories. Once outcomes are decided, we have to note them (probably manually), and reward users. Reward users on being right, reward them for their thought process and how right their thinking was.
+
+- Cool areas: entertainment (sports, tv, movies), finance (private and public market predictions), politics (war, elections), macro data (population trends).
+
+- Cool functions: create profiles for celebrities. Stephen A. Smith predicted warriors to lose in the first stage of playoffs, punish him for being wrong on the site. Donald Trump says there is gonna be a "yyuuuuuge red wave" puninsh him for being wrong.
+- Cool functions: rank boards per topic. rank boards for basketball, baseball, anime, fast and furious. rank boards public vs. friends.
