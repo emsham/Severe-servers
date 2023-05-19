@@ -79,4 +79,4 @@ protein folding webapp: utilize AlphaFold for protein prediction and ChatGPT for
 
 an app that uses artifical intelligence to plan your day. Take a different perspective for organizing a day. Usually, we plan our days in a list fashion. What if we use a pie chart instead? That way we actually visualize that there are only 24 hours in the day and that whatever you do, you are restricted by that limit. Using Ai could help with creating meal plans, entertainment schedule, workout sessions, and stuff like that.
 
-
+Less tech related, but applying to grad school is a pain in the ass. Every university, and sometimes every department, has its own application portal. What if we did a commonApp version without the need of going to the universities? In other words, format the application information to be acceptable by a certain university. Additionally, to apply to grad school you more often than not need to earn prereqs credits. We could provide a test based alternative: You could self-study and take the exam. If you do well, you'd earn the equivalent to undergrad credits showing your knowledge on the matter. 
