@@ -67,3 +67,12 @@ So how would this platform work functionally. I guess users could come in, and w
 
 - Cool functions: create profiles for celebrities. Stephen A. Smith predicted warriors to lose in the first stage of playoffs, punish him for being wrong on the site. Donald Trump says there is gonna be a "yyuuuuuge red wave" puninsh him for being wrong.
 - Cool functions: rank boards per topic. rank boards for basketball, baseball, anime, fast and furious. rank boards public vs. friends.
+
+
+05/19/2023:
+
+protein folding webapp: utilize AlphaFold for protein prediction and ChatGPT for interpretation.
+- Input: User enters a protein sequence into web application.
+- Visualization: Once prediction is completed, 3d structure is visualized.
+- Explanation: considering inputs and prediction, chatgpt explains details in a chatbox, user can ask follow-up questions.
+- Advanced Features: Allow user to modify protein sequence - see how it impacts predicted structure.
