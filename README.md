@@ -76,3 +76,7 @@ protein folding webapp: utilize AlphaFold for protein prediction and ChatGPT for
 - Visualization: Once prediction is completed, 3d structure is visualized.
 - Explanation: considering inputs and prediction, chatgpt explains details in a chatbox, user can ask follow-up questions.
 - Advanced Features: Allow user to modify protein sequence - see how it impacts predicted structure.
+
+an app that uses artifical intelligence to plan your day. Take a different perspective for organizing a day. Usually, we plan our days in a list fashion. What if we use a pie chart instead? That way we actually visualize that there are only 24 hours in the day and that whatever you do, you are restricted by that limit. Using Ai could help with creating meal plans, entertainment schedule, workout sessions, and stuff like that.
+
+
