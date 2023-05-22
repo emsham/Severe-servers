@@ -82,3 +82,7 @@ an app that uses artifical intelligence to plan your day. Take a different persp
 Less tech related, but applying to grad school is a pain in the ass. Every university, and sometimes every department, has its own application portal. What if we did a commonApp version without the need of going to the universities? In other words, format the application information to be acceptable by a certain university. Additionally, to apply to grad school you more often than not need to earn prereqs credits. We could provide a test based alternative: You could self-study and take the exam. If you do well, you'd earn the equivalent to undergrad credits showing your knowledge on the matter. 
 
 ask users for their resumes, cover letters, and job descriptions. Do some basic parsing to obtain the relevant data. Use chatgpt to reword resume and cover letter for the job.
+
+an app that uses ai to create smart ads
+
+an app that uses ai to create training schedules. we could use some editing to make every video so personal as for the trainer to mention the practitioner's name. we could rely on consential deepfakes
